@@ -2,7 +2,7 @@
 
 Protótipo funcional de um portal em que o aluno acompanha e completa a solicitação de uma bolsa de estudos. O projeto parte do design que criei no Figma, e esta versão implementa o fluxo principal em HTML, CSS e JavaScript puros.
 
-**Design completo (Figma/Behance):** Não inclui devido aos dados pessoais dos alunos.
+**Design completo (Figma/Behance):** Não incluí devido aos dados pessoais dos alunos.
 
 > Todos os dados são fictícios. O arquivo enviado nos documentos não sai do navegador.
 
