@@ -1,4 +1,4 @@
-Portal Benefícios
+Sistema Benefícios
 
 Protótipo de um portal para solicitar bolsa de estudos. Desenhei as telas no Figma e implementei o fluxo principal em HTML, CSS e JavaScript.
 
